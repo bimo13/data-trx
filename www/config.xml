@@ -17,7 +17,7 @@
 				<param name="URL_SCHEME" value="appStarbucks" />
 			</gap:plugin>
 			
-			<preference name="phonegap-version" value="3.1.0" />
+			<preference name="phonegap-version" value="2.9.0" />
 			<preference name="orientation"      value="default" />
 			<preference name="target-device"    value="universal" />
 			<preference name="fullscreen"       value="false" />
